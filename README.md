@@ -73,5 +73,5 @@ The UI is built with **Tailwind CSS** and enhanced using **shadcn/ui** component
 
 ---
 
-## 📁 Project Structure
+
 
