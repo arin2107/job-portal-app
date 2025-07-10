@@ -4,6 +4,15 @@ A modern, full-stack **Job Portal** built using the powerful **MERN stack** — 
 
 ---
 
+## 🌐 Live Demo
+
+- 🔗 Frontend:https://job-portal-app-khjk.vercel.app/
+- 🔗 Backend API:https://job-portal-app-5bn4.onrender.com
+
+> 💡 You can try registering as a **Student** or **Recruiter** to see the role-based dashboard features.
+
+---
+
 ## ✨ Features
 
 ### ✅ General
@@ -63,4 +72,6 @@ The UI is built with **Tailwind CSS** and enhanced using **shadcn/ui** component
 - Protected routes for job posting, application, and dashboard access
 
 ---
+
+## 📁 Project Structure
 
